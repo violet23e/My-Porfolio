@@ -13,6 +13,11 @@ a.btn{
     color:rgb(21, 16, 4);
     background-color: rgb(189, 157, 77);
     border-color: rgb(189, 141, 21);
+    border: 1px solid rgb(189, 157, 77);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 10px;
+    text-align: center;
 }
 section .section section-icons{
     background-color: rgb(22, 41, 35);
