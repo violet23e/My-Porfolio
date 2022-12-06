@@ -1,0 +1,57 @@
+.body{
+    background-color: rgb(22, 41, 35);
+    color:rgb(221, 169, 90);
+}
+h4{
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(221, 169, 90);
+}
+.container .card-panel{
+    background-color: rgb(37, 74, 62);
+    box-sizing: content-box;
+}
+i .material-icons{
+    color:bisque;
+}
+
+ /* label color */
+ .input-field label {
+    color: #000;
+  }
+  /* label focus color */
+  .input-field input[type=text]:focus + label {
+    color: #000;
+  }
+  /* label underline focus color */
+  .input-field input[type=text]:focus {
+    border-bottom: 1px solid #000;
+    box-shadow: 0 1px 0 0 #000;
+  }
+  /* valid color */
+  .input-field input[type=text].valid {
+    border-bottom: 1px solid #000;
+    box-shadow: 0 1px 0 0 #000;
+  }
+  /* invalid color */
+  .input-field input[type=text].invalid {
+    border-bottom: 1px solid #000;
+    box-shadow: 0 1px 0 0 rgb(67, 7, 7);
+  }
+  /* icon prefix focus color */
+  .input-field .prefix.active {
+    color: rgb(48, 20, 20);
+  }
+
+  a.btn{
+    border-radius: 25px;
+    color:rgb(21, 16, 4);
+    background-color: rgb(189, 157, 77);
+    border-color: rgb(189, 157, 77);
+  }
+
+  i{
+    color:rgb(189, 157, 77);
+  }

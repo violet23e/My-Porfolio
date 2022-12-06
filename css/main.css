@@ -1,0 +1,64 @@
+.body{
+    background-color: rgb(22, 41, 35);
+}
+.main-header{
+    background-color: rgb(22, 41, 35);
+    color:rgb(189, 157, 77)
+}   
+span{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
+a.btn{
+    border-radius: 25px;
+    color:rgb(21, 16, 4);
+    background-color: rgb(189, 157, 77);
+    border-color: rgb(189, 141, 21);
+}
+section .section section-icons{
+    background-color: rgb(22, 41, 35);
+}
+i {
+    color:rgb(189, 157, 77);
+}
+a{
+    color:rgb(189, 157, 77);
+}
+h2{
+    color:rgb(189, 157, 77); 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+section .section .scrollspy{
+    background-color: rgb(22, 41, 35);
+}
+h4{
+    color: rgb(22, 41, 35);
+    font-weight: 600;
+    font-stretch: extra-expanded;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3{
+    color: rgb(214, 179, 39);
+    font-weight: 600;
+    font-stretch: extra-expanded;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-stretch: extra-expanded;
+    color: rgb(31, 5, 5);
+}
+.card .card-content{
+    color:rgb(10, 72, 51);
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+}
+a.btn-flat{
+    border-radius: 25px;
+    color:rgb(21, 16, 4);
+    background-color: rgb(189, 157, 77);
+    outline-style: dashed;
+    align-items: center;
+}
