@@ -67,3 +67,7 @@ a.btn-flat{
     outline-style: dashed;
     align-items: center;
 }
+.sidenav{
+    background: url(../images/sidenav.jpg);
+    
+}
