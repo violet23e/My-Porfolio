@@ -69,5 +69,6 @@ a.btn-flat{
 }
 .sidenav{
     background: url(../images/sidenav.jpg);
+    background-size: cover;
     
 }
