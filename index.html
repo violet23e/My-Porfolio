@@ -75,6 +75,17 @@
                 </div>
             </li>
         </ul>
+  <!--fixed action button-->
+
+        <div class="fixed-action-btn">
+          <a href="#" class="btn-floating large material-icons green lighten-2"><i class="large material-icons yellow">add</i></a></a>
+              <ul>
+                  <li> <a href="./carousel.html" class="btn-floating red large"><i class="class material-icons purple">attach_file</i></a></li>
+                  <li> <a href="#" class="btn-floating red large"><i class="class material-icons yellow">insert_chart</i></a></li>
+                  <li> <a href="#" class="btn-floating red large"><i class="class material-icons yellow">add_a_photo</i></a></li>
+                  <li> <a href="#" class="btn-floating red large"><i class="class material-icons pink">publish</i></a></li>
+              </ul>
+        </div>
 
         <!--Showcase, Hero Page-->
         <div class="showcase">
@@ -687,7 +698,11 @@
             dist:0,
             shift:10,
             onCycleTo:true
-          }
+          },
+          $('.fixed-action-btn').floatingActionButton({
+            hoverEnabled:false,
+            direction:'top',
+          }),
             
           );
         </script>
