@@ -75,3 +75,6 @@ a.btn-flat{
 .fixed-action-btn{
     color:rgb(189, 157, 77); 
 }
+.parallax-container{
+    height: 10px;
+}
